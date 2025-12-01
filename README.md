@@ -1,18 +1,19 @@
-# 🚀 github readme builder
+# 🚀 GITHUB README BUILDER
 
 ## ✨ Description  
-it is an desktop application that crete an reade file for the github repository and can directly push to the github
+It ia a desktop application which genrate an automated README file and can directly push to github repository.
 
 ## 🌟 Features  
-- ✅   
-- 🔧 
+- ✅ It can create multiple style readme file  
+- 🔧 it can uploads screenshot directly from your desktop 
 
 ## 📦 Installation  
-
+,,,
+bash
 
 ## 🧰 Technologies
-
+PYTHON, TKINTER, JINJA2, PILLOW, GITHUB API
 
 ## 🤝 Connect with me
-- 🌐 GitHub: https://github.com/EC-vanshika
+- 🌐 GitHub: https://github.com/EC-vanshika  
 - 💼 LinkedIn: https://www.linkedin.com/in/vanshika-gupta-60b3442a3/
